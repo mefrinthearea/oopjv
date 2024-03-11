@@ -1,7 +1,7 @@
-package main;
+package Main;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("George");
+        System.out.println("Giorgi");
     }
 }
